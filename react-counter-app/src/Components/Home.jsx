@@ -7,6 +7,7 @@ return (
     <ul>
         <li><Link to="/counter">Counter App</Link></li>
         <li><Link to="/stopwatch">Stopwatch App</Link></li>
+        <li><Link to="/refex">Use Ref Example</Link></li>
     </ul>
     </div>
 )
